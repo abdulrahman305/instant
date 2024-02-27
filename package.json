@@ -23,7 +23,7 @@
     "command-exists": "^1.2.9",
     "i": "^0.3.7",
     "inquirer": "^8.2.6",
-    "semver": "^7.5.4"
+    "semver": "^7.6.0"
   },
   "keywords": []
 }
